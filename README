@@ -1,3 +1,8 @@
+https://github.com/elastic/elasticsearch-py
+のパッケージ名を`elasticsearch5`に変更しただけ。
+テスト周りのファイルの対応は行っていない。
+
+
 Python Elasticsearch Client
 ===========================
 
